@@ -128,11 +128,11 @@ from me for this process to move forward?
 
 --------
 
-*First, there is a typo in the email. (Always proofread). This email is also unnecessarily wordy and like the ones above, does not mention any specifics about the interview. In a thank you note, don’t mention or assume that you’ll be talking next steps with the interviewer or someone else at the company. Also this note should be broken up into smaller paragraphs.*
+*In the below email there is a typo. (Always proofread). This email is also unnecessarily wordy and like the ones above, does not mention any specifics about the interview. In a thank you note, don’t mention or assume that you’ll be talking next steps with the interviewer or someone else at the company. Also this note should be broken up into smaller paragraphs.*
 
 >Hey Veronica,
 
->I would again like to thank you for the opportunity to speak with you this evening. I know with the way things are going >over at Company X, and the way you guys are growing, things must be very busy so I really appreciate you allowing me a >moment of your valuable time to speak with you about the possibility of filling the your open role. With that being said I >look forward to speaking with you again about the possible next steps that shall be taking place within this interview >process and also speaking with a manger/ engineer over at Company X. Thank you again and have a great day.
+>I would again like to thank you for the opportunity to speak with you this evening. I know with the way things are going over at Company X, and the way you guys are growing, things must be very busy so I really appreciate you allowing me a moment of your valuable time to speak with you about the possibility of filling the your open role. With that being said I look forward to speaking with you again about the possible next steps that shall be taking place within this interview process and also speaking with a manger/ engineer over at Company X. Thank you again and have a great day.
 
 >Pierre
 
