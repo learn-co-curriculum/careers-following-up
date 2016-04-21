@@ -66,7 +66,7 @@ Your follow-up note must address the following points:
 
 >Derek
 
-
+--------
 
 
 *The example below uses appropriate language, is enthusiastic about the role and seeks to build a personal relationship with the contact (a technical lead on the team at Company X).*
@@ -83,7 +83,7 @@ Your follow-up note must address the following points:
 
 >Jessica 
 
-
+--------
 
 
 *The example below is extremely enthusiastic and detailed about the interview process. Melina is telling Alyson (the tech recruiter) about her experiences in today’s interview and also indicated some specific details following the coffee meeting she had with alyson at the end of the day.*
@@ -114,16 +114,19 @@ Your follow-up note must address the following points:
  
 >Darryl
 
+--------
 
 *The below example does not specifically mention anything about the interview nor the person who was doing the interview. Employees interview a lot of people; be specific so the employee remembers who you are. Also, don’t ask in your thank you note what the next steps are in the process?*
 
 >Hi Amelia,
 
->I am very excited about the prospect of working as a Fellow at Conde Nast! Is there any further information you require >from me for this process to move forward?
+>I am very excited about the prospect of working as a Fellow at Conde Nast! Is there any further information you require
+from me for this process to move forward?
 
 >Thanks,
 >Kevin
 
+--------
 
 *First, there is a typo in the email. (Always proofread). This email is also unnecessarily wordy and like the ones above, does not mention any specifics about the interview. In a thank you note, don’t mention or assume that you’ll be talking next steps with the interviewer or someone else at the company. Also this note should be broken up into smaller paragraphs.*
 
