@@ -31,7 +31,7 @@ As mentioned in previous lessons, this helps you remember the key points you dis
  
 If an interviewer doesn’t give you their business card (or says they don’t have any), don’t think that’s an excuse not to send a follow up note. It’s pretty common in the tech industry for people not to have business cards. 
 - Reference a business card of another person at the company to figure out their email address format (for example- firstname@company.com).
-- This link can also give you tips of that doesn't work: https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST
+- This [link](https://www.linkedin.com/pulse/20140915184621-60525567-how-to-find-email-addresses?trk=hb_ntf_MEGAPHONE_ARTICLE_POST&trk=hb_ntf_MEGAPHONE_ARTICLE_POST) can also give you tips of that doesn't work
 - You could also ask your main point of contact at the company (likely someone in HR) for the emails of your other interviewers.You can explain that you’d like your interviewer’s email so that you can follow up with them, and politely ask to make sure that’s ok. 
 
  
