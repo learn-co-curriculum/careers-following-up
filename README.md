@@ -14,20 +14,20 @@ Examples of when to send a follow up note:
 
  
 Here are key best practices for your follow-up:
- 
-1. Send your follow-up/thank you no later than 24 hours after every interview or communication exchange.
+
+**Send your follow-up/thank you no later than 24 hours after every interview or communication exchange.**
  
 This shows you are timely and seriously interested. Plus, it helps the interviewer remember you more, as you are still fresh in their mind. Do this even if you’ve met the interviewer before, or on several occasions.
- 
-2. Email each interviewer individually.
+
+**Email each interviewer individually.**
  
 Do not send one mass email to everyone you met with. Even if you are in a panel interview or meeting with multiple people at the same time, it is still best practice to follow up with each person you meet individually. 
  
-3.Have pen and paper handy during your interview.
+**Have pen and paper handy during your interview.**
  
 As mentioned in previous lessons, this helps you remember the key points you discussed with each interviewer, enabling you to write a more personalized, impactful follow-up. 
  
-4.Ask for their business card.
+**Ask for their business card.**
  
 If an interviewer doesn’t give you their business card (or says they don’t have any), don’t think that’s an excuse not to send a follow up note. It’s pretty common in the tech industry for people not to have business cards. 
 - Reference a business card of another person at the company to figure out their email address format (for example- firstname@company.com).
@@ -68,6 +68,7 @@ Your follow-up note must address the following points:
 
 
 
+
 *The example below uses appropriate language, is enthusiastic about the role and seeks to build a personal relationship with the contact (a technical lead on the team at Company X).*
 
 >Hi Mark,
@@ -82,7 +83,8 @@ Your follow-up note must address the following points:
 
 >Jessica 
 
------
+
+
 
 *The example below is extremely enthusiastic and detailed about the interview process. Melina is telling Alyson (the tech recruiter) about her experiences in today’s interview and also indicated some specific details following the coffee meeting she had with alyson at the end of the day.*
 
@@ -117,7 +119,7 @@ Your follow-up note must address the following points:
 
 >Hi Amelia,
 
->I am very excited about the prospect of working as a Fellow at Conde Nast!  Is there any further information you require >from me for this process to move forward?
+>I am very excited about the prospect of working as a Fellow at Conde Nast! Is there any further information you require >from me for this process to move forward?
 
 >Thanks,
 >Kevin
