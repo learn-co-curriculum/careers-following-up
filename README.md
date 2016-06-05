@@ -139,6 +139,8 @@ from me for this process to move forward?
  
 ## Assignment 
 
-Consider your previous follow-up notes. Think about what you did successfully What did you do successfully? What was missing? Use this lesson to help you craft strong, impactful follow-up notes and habits going forward. Be sure to run the first few follow up notes by your coach before sending them.
+Consider your previous follow-up notes. Think about what you did successfully. What did you do successfully? What was missing? Use this lesson to help you craft strong, impactful follow-up notes and habits going forward. Be sure to run the first few follow up notes by your coach before sending them.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-following-up'>Careers Following Up </a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-following-up'>Following Up</a> on Learn.co and start learning to code for free.</p>
