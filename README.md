@@ -137,7 +137,7 @@ from me for this process to move forward?
 >Pierre
 
  
-## Assignment 
+## Next Steps 
 
 Consider your previous follow-up notes. Think about what you did successfully. What did you do successfully? What was missing? Use this lesson to help you craft strong, impactful follow-up notes and habits going forward. Be sure to run the first few follow up notes by your coach before sending them.
 
