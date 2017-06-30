@@ -56,11 +56,11 @@ Your follow-up note must address the following points:
 
 >Great to see you yesterday and thank you again for helping to coordinate my interviews.  
 
->It was fantastic to meet with Peter and Jane -- it was heartening to see that they're so engaged with team members on all >levels, all the more so because they're such smart, personable individuals. 
+>It was fantastic to meet with Peter and Jane -- it was heartening to see that they're so engaged with team members on all levels, all the more so because they're such smart, personable individuals. 
 
->I was thankful to get to hear their vision for the future of Company X and to work through a couple of sample problems with >them.  If you have the chance, it would be appreciated if you could pass along my thanks!
+>I was thankful to get to hear their vision for the future of Company X and to work through a couple of sample problems with them.  If you have the chance, it would be appreciated if you could pass along my thanks!
 
->The data-focused solutions that Company X is creating for its clients are truly exciting. Having met so many great team >members and learned so much about the company, I think Company X would be an amazing place to contribute my technical >skills and client experience.  I hope we have the chance to discuss the opportunity further. 
+>The data-focused solutions that Company X is creating for its clients are truly exciting. Having met so many great team members and learned so much about the company, I think Company X would be an amazing place to contribute my technical skills and client experience.  I hope we have the chance to discuss the opportunity further. 
 
 >Looking forward,
 
@@ -73,11 +73,11 @@ Your follow-up note must address the following points:
 
 >Hi Mark,
 
->Thanks so much for taking the time out of your day to meet with me this afternoon. It was a pleasure speaking to you, >visiting the office, and learning about Insert here something that came up in conversation, could be non-tech related or >funny, building rapport. 
+>Thanks so much for taking the time out of your day to meet with me this afternoon. It was a pleasure speaking to you, visiting the office, and learning about Insert here something that came up in conversation, could be non-tech related or funny, building rapport. 
 
->I really enjoyed our conversation about Swift and, while I have focused the last few months on learning Objective-C, I am >interested in learning how to translate my knowledge into Swift and building apps in Swift. As you know, I am just >beginning my career as an iOS developer, but I believe I have the passion and drive to make a valuable contribution to your >team. 
+>I really enjoyed our conversation about Swift and, while I have focused the last few months on learning Objective-C, I am interested in learning how to translate my knowledge into Swift and building apps in Swift. As you know, I am just beginning my career as an iOS developer, but I believe I have the passion and drive to make a valuable contribution to your team. 
 
->Thanks again for your time. I am excited about this opportunity to join Company X, and I look forward to seeing you at the >next Brooklyn Swift meetup!
+>Thanks again for your time. I am excited about this opportunity to join Company X, and I look forward to seeing you at the next Brooklyn Swift meetup!
 
 >Best,
 
@@ -90,11 +90,11 @@ Your follow-up note must address the following points:
 
 >Hi Alyson,
 					
->I wanted to thank you for setting up my interviews today and also for taking the time to speak with me over coffee at the >end of the day. I really enjoyed learning more about the responsibilities of a Support Engineer, and hearing about the >inclusive culture at Company X.
+>I wanted to thank you for setting up my interviews today and also for taking the time to speak with me over coffee at the end of the day. I really enjoyed learning more about the responsibilities of a Support Engineer, and hearing about the inclusive culture at Company X.
 						
->The challenges that I worked on with Nate were fantastic and eye opening. I learned so much from working with him and >exploring new technologies during our debugging session.
+>The challenges that I worked on with Nate were fantastic and eye opening. I learned so much from working with him and exploring new technologies during our debugging session.
 						
->Just to reiterate, I am very excited about the prospect of working at Company X. It is by far my first choice to start my >career as a developer, and I can't wait to continue this process.
+>Just to reiterate, I am very excited about the prospect of working at Company X. It is by far my first choice to start my career as a developer, and I can't wait to continue this process.
 						
 >Look forward to hearing from you soon!
 						
@@ -108,7 +108,7 @@ Your follow-up note must address the following points:
  
 >Dear Chris,
  
->Thank you for your time. It was a pleasure meeting you and learning more about what your company is looking for in this >role. As you see from my resume and interview, I possess the exact skills your company requires, as well as a strong work >ethic.
+>Thank you for your time. It was a pleasure meeting you and learning more about what your company is looking for in this role. As you see from my resume and interview, I possess the exact skills your company requires, as well as a strong work >ethic.
  
 >I look forward to hearing from you soon.
  
